@@ -20,7 +20,7 @@ Focus       : Linux | Backend | DevOps | Cybersecurity
 Status      : Learning and building projects
 ```
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749695-f8f94c89-5c6c-4f26-b4b0-f9f5f70d88df.gif"/>
 
 ## Acerca de mi
 
@@ -84,23 +84,23 @@ Manjaro
 
 ---
 
-#  Cybersecurity & Networking
+#  Ciberseguridad & Redes
 
 ```yaml
-Networks:
+Redes:
   - TCP/IP
   - DNS
   - DHCP
   - VPN
-  - Routing Basics
-  - Troubleshooting
+  - Configuración y Administración de Redes
+  - Diagnóstico y Solución de Incidencias
 
-Cybersecurity:
-  - Linux Hardening
-  - Web Security
-  - Vulnerability Analysis
-  - Security Best Practices
-  - System Administration
+Ciberseguridad:
+  - Hardening de Sistemas Linux
+  - Seguridad en Aplicaciones Web
+  - Análisis Básico de Vulnerabilidades
+  - Implementación de Buenas Prácticas de Seguridad
+  - Administración Segura de Sistemas
 ```
 
 ---
@@ -108,16 +108,16 @@ Cybersecurity:
 #  Experience
 
 ```diff
-+ Linux Server Administration
-+ Technical Support
-+ Customer Service
-+ Project Deployment
-+ Git & GitLab
-+ Vagrant
-+ Docker
-+ Database Management
-+ Web Development
-+ Network Support
+- Administración de Servidores Linux
+- Soporte Técnico
+- Atención al Cliente
+- Despliegue de Proyectos
+- Git y GitLab
+- Vagrant
+- Docker
+- Administración de Bases de Datos
+- Desarrollo Web
+- Soporte de Redes
 ```
 
 ---
