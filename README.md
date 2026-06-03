@@ -1,175 +1,170 @@
 <div align="center">
 
-# Ulises Santiago
+# 👻 Hola, soy Ulises Santiago 
 
-### Estudiante de Informática | Linux | Infraestructura | Desarrollo Web | Ciberseguridad
+### Informática • Linux • Ciberseguridad • Backend Developer • Redes • Soporte
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Estudiante+de+Informática;Administrador+de+Sistemas+Linux;Desarrollador+Web;Interesado+en+Ciberseguridad;Infraestructura+y+Redes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Student+of+Computer+Science;Linux+Enthusiast;Backend+Developer;Cybersecurity+Learner;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## Información
-
 ```bash
-usuario      : Ulises Santiago
-ubicación    : Puebla, México
-correo       : ulisessantiago076@gmail.com
-formación    : Informática
+$ whoami
 
-áreas de interés
-
-- Desarrollo Backend
-- Linux
-- Infraestructura
-- Redes
-- Ciberseguridad
-- DevOps
+Name        : Ulises Santiago
+Location    : Puebla, México
+Career      : Informática
+Focus       : Linux | Backend | DevOps | Cybersecurity
+Status      : Learning and building projects
 ```
 
----
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-## Tecnologías
+## Acerca de mi
 
-### Lenguajes
+Soy estudiante de Informática apasionado por el desarrollo de software,
+las distros de Linux, redes y ciberseguridad.
+
+He trabajado en despliegues de proyectos, administración de servidores Linux,
+soporte técnico, infraestructura tecnológica y desarrollo de aplicaciones web.
+
+Me gusta aprender nuevas tecnologías, automatizar procesos y resolver problemas
+utilizando herramientas modernas.
+
+<br>
+
+# Conocimientos
+
+### Lenguajes de programación
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,html,css" />
 </p>
 
-### Frameworks
+###  Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,react,angular,vue,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap" />
 </p>
 
-### Bases de Datos
+###  Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
+</p>
+
+###  Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-**También he trabajado con:**
-
 - OrientDB
 
----
-
-## Linux e Infraestructura
+###  Linux & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,gitlab,nginx,bash" />
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,gitlab,nginx,bash,vagrant" />
 </p>
 
-### Distribuciones utilizadas
+#### Linux Distros
 
 ```text
-Debian
 Ubuntu
-Fedora
+Debian
 Kali Linux
+Fedora
+FreeBSD
 Parrot OS
 Linux Mint
 Manjaro
-FreeBSD
-```
-
-### Experiencia
-
-```text
-Despliegue de proyectos
-Administración básica de servidores
-Configuración de servicios Linux
-Docker y Docker Compose
-Vagrant
-Git y GitLab
-Automatización de entornos
-Resolución de incidencias
 ```
 
 ---
 
-## Redes y Ciberseguridad
+#  Cybersecurity & Networking
 
 ```yaml
-Redes:
+Networks:
   - TCP/IP
   - DNS
   - DHCP
   - VPN
-  - Diagnóstico de conectividad
+  - Routing Basics
+  - Troubleshooting
 
-Ciberseguridad:
-  - Hardening Linux
-  - Seguridad web
-  - Análisis básico de vulnerabilidades
-  - Buenas prácticas de seguridad
+Cybersecurity:
+  - Linux Hardening
+  - Web Security
+  - Vulnerability Analysis
+  - Security Best Practices
+  - System Administration
 ```
 
 ---
 
-## Experiencia
+#  Experience
 
-### Desarrollo
-
-- Aplicaciones web con Laravel.
-- Desarrollo Frontend con React, Angular y Vue.
-- Integración de APIs REST.
-- Diseño y administración de bases de datos.
-
-### Infraestructura
-
-- Despliegue de aplicaciones en Linux.
-- Administración de Debian y Ubuntu.
-- Uso de Docker para entornos de desarrollo.
-- Control de versiones con Git y GitLab.
-
-### Soporte Técnico
-
-- Atención a usuarios.
-- Soporte presencial y remoto.
-- Diagnóstico de hardware y software.
-- Resolución de incidencias.
+```diff
++ Linux Server Administration
++ Technical Support
++ Customer Service
++ Project Deployment
++ Git & GitLab
++ Vagrant
++ Docker
++ Database Management
++ Web Development
++ Network Support
+```
 
 ---
 
-## Estadísticas
+#  GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulises0888&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulises0888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulises0888&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulises0888&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## Actividad
+#  Racha de contribución
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises0888&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises0888&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## Objetivos
+#  Logros
+<div align="center">
 
-```text
-Seguir desarrollando experiencia en Linux
-Profundizar en infraestructura y DevOps
-Fortalecer conocimientos de ciberseguridad
-Participar en proyectos de software e infraestructura
-Contribuir a proyectos Open Source
-```
+<img src="https://github-profile-trophy.vercel.app/?username=ulises0888&theme=tokyonight&row=1&column=6"/>
+
+</div>
 
 ---
 
-## Contacto
+#  Contacto
 
-Correo: ulisessantiago076@gmail.com
+📧 **ulisessantiago076@gmail.com**
 
-Puebla, México
+🐧 ulises0888
+
+🌎 Puebla, México
+
+---
+
+<div align="center">
+
+###  "Code. Learn. Build. Repeat."
+
+</div>
