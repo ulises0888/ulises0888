@@ -20,7 +20,7 @@ Focus       : Linux | Backend | DevOps | Cybersecurity
 Status      : Learning and building projects
 ```
 
-<img align="right" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/cat-computer.gif"/>
+<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-typing.gif"/>
 
 ## Acerca de mi
 
