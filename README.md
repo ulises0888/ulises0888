@@ -1,78 +1,168 @@
-<h1 align="center">Oii, eu sou a Julia Krisnarane 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
+<h1 align="center">👋 Hola, soy Ulises Santiago</h1>
+<h3 align="center">💻 Estudiante de Informática | Desarrollo de Software | Linux | Redes | Ciberseguridad</h3>
 
 <p align="center">
-  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:tu_correo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+## 🚀 Sobre mí
 
-  <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
-  </em> 
-  <br>
-<div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
-</div>
+Soy estudiante de Informática apasionado por el desarrollo de software, la administración de sistemas Linux, las redes y la ciberseguridad.
+
+He participado en actividades de soporte técnico, despliegue de proyectos en Linux y apoyo en infraestructura tecnológica dentro de entornos universitarios. También he trabajado en proyectos utilizando Java, Python, Laravel, Docker y bases de datos relacionales.
+
+Me caracterizo por ser responsable, puntual, adaptable y con facilidad para aprender nuevas tecnologías. Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, DevOps, infraestructura y seguridad informática.
 
 <br>
-  
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Outros</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  </kbd>
-  <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
-</div>
+
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes de Programación
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,bash" />
+</p>
+
+### 🎨 Desarrollo Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel" />
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🐧 Linux, DevOps e Infraestructura
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,gitlab,nginx" />
+</p>
+
+### 🌐 Redes y Ciberseguridad
+
+- TCP/IP
+- DNS
+- VPN
+- Soporte técnico
+- Administración básica de servidores Linux
+- Seguridad informática
+- Resolución de incidencias
+- Infraestructura tecnológica
+
+<br>
+
+## 📚 Actualmente Aprendiendo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,gitlab,linux" />
+</p>
+
+- DevOps
+- Docker Compose
+- Administración de servidores Linux
+- Ciberseguridad
+- Desarrollo Backend
+- Automatización de despliegues
+
+<br>
+
+## 💼 Experiencia
+
+### 🔧 Soporte Técnico e Infraestructura
+
+- Soporte técnico a usuarios.
+- Configuración y mantenimiento de equipos.
+- Apoyo en infraestructura tecnológica.
+- Despliegue de proyectos en entornos Linux.
+- Configuración básica de redes.
+- Resolución de incidencias de software y hardware.
+
+### 🖥️ Desarrollo de Software
+
+- Desarrollo de aplicaciones utilizando Java y Python.
+- Desarrollo web con HTML, CSS, JavaScript y Laravel.
+- Diseño y administración de bases de datos MySQL y PostgreSQL.
+- Control de versiones con Git y GitLab.
+- Uso de Docker para entornos de desarrollo.
+
+<br>
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+
 </div>
 
 <br>
+
+## 🔥 Racha de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+
+</div>
+
 <br>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+## 🏆 Trofeos de GitHub
 
-<p align="center"> 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+<br>
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+
+</div>
+
+<br>
+
+## 🎯 Objetivos
+
+- Especializarme en desarrollo backend.
+- Fortalecer mis conocimientos en Linux y servidores.
+- Aprender más sobre DevOps y automatización.
+- Desarrollarme profesionalmente en el área de ciberseguridad.
+- Participar en proyectos de software e infraestructura.
+
+<br>
+
+## 📫 Contacto
+
+📧 tu_correo@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/tu-perfil
+
+🌎 Puebla, México
+
+---
+
+<div align="center">
+
+### 👨‍💻 Gracias por visitar mi perfil
+
+"Siempre aprendiendo nuevas tecnologías y buscando mejorar cada día."
+
+</div>
