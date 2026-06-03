@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 Hola, soy Ulises Santiago 
+# 👻 Hola, soy Ulises 
 
 ### Informática • Linux • Ciberseguridad • Backend Developer • Redes • Soporte
 
