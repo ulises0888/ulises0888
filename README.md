@@ -1,171 +1,96 @@
-<div align="center">
+# Hola, soy Ulises Santiago
 
-# 🌃 Ulises Santiago
+Estudiante de Informática con interés en desarrollo de software, administración de sistemas Linux, redes y ciberseguridad.
 
-### 💻 Informática • Linux • Ciberseguridad • Backend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Student+of+Computer+Science;Linux+Enthusiast;Backend+Developer;Cybersecurity+Learner;Always+Learning+New+Technologies" />
-
-</div>
+Actualmente trabajo con tecnologías orientadas al desarrollo web, despliegue de aplicaciones y administración de infraestructura basada en Linux.
 
 ---
 
-```bash
-$ whoami
+## Tecnologías
 
-Name        : Ulises Santiago
-Location    : Puebla, México
-Career      : Informática
-Focus       : Linux | Backend | DevOps | Cybersecurity
-Status      : Learning and building projects
-```
+### Lenguajes
 
-<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🚀 About Me
+### Desarrollo Web
 
-Soy estudiante de Informática apasionado por el desarrollo de software,
-Linux, redes y ciberseguridad.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-He trabajado en despliegues de proyectos, administración de servidores Linux,
-soporte técnico, infraestructura tecnológica y desarrollo de aplicaciones web.
+### Bases de Datos
 
-Me gusta aprender nuevas tecnologías, automatizar procesos y resolver problemas
-utilizando herramientas modernas.
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![OrientDB](https://img.shields.io/badge/OrientDB-CB2027?style=for-the-badge)
 
-<br>
+### Linux e Infraestructura
 
-# ⚡ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,html,css" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-- OrientDB
-
-### 🐧 Linux & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,gitlab,nginx,bash,vagrant" />
-</p>
-
-#### Linux Distros
-
-```text
-Ubuntu
-Debian
-Kali Linux
-Fedora
-FreeBSD
-Parrot OS
-Linux Mint
-Manjaro
-```
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ---
 
-# 🔒 Cybersecurity & Networking
+## Experiencia
 
-```yaml
-Networks:
-  - TCP/IP
-  - DNS
-  - DHCP
-  - VPN
-  - Routing Basics
-  - Troubleshooting
+### Desarrollo
 
-Cybersecurity:
-  - Linux Hardening
-  - Web Security
-  - Vulnerability Analysis
-  - Security Best Practices
-  - System Administration
-```
+- Aplicaciones web con Laravel.
+- Interfaces con React, Angular y Vue.
+- APIs REST.
+- Modelado y administración de bases de datos.
 
----
+### Infraestructura
 
-# 🛠 Experience
+- Despliegue de proyectos en servidores Linux.
+- Administración de Debian y Ubuntu.
+- Configuración de servicios y entornos de desarrollo.
+- Uso de Docker y Vagrant.
 
-```diff
-+ Linux Server Administration
-+ Technical Support
-+ Customer Service
-+ Project Deployment
-+ Git & GitLab
-+ Vagrant
-+ Docker
-+ Database Management
-+ Web Development
-+ Network Support
-```
+### Redes y Seguridad
+
+- Configuración básica de redes.
+- TCP/IP, DNS y VPN.
+- Diagnóstico y solución de problemas.
+- Buenas prácticas de ciberseguridad.
+
+### Soporte Técnico
+
+- Atención a usuarios.
+- Soporte presencial y remoto.
+- Diagnóstico de hardware y software.
+- Resolución de incidencias.
 
 ---
 
-# 📊 GitHub Stats
+## Distribuciones Linux con las que he trabajado
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulises0888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulises0888&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises0888&theme=tokyonight"/>
-
-</div>
+- Debian
+- Ubuntu
+- Kali Linux
+- Fedora
+- Parrot OS
+- Linux Mint
+- Manjaro
+- FreeBSD
 
 ---
 
-# 🏆 Achievements
+## Contacto
 
-<div align="center">
+📧 ulisessantiago076@gmail.com
 
-<img src="https://github-profile-trophy.vercel.app/?username=ulises0888&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-# 📫 Contact
-
-📧 **ulisessantiago076@gmail.com**
-
-🐧 Linux User
-
-🌎 Puebla, México
-
----
-
-<div align="center">
-
-### 🌃 "Code. Learn. Build. Repeat."
-
-</div>
+📍 Puebla, México
