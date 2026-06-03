@@ -20,7 +20,7 @@ Focus       : Linux | Backend | DevOps | Cybersecurity
 Status      : Learning and building projects
 ```
 
-<img align="right" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 
 ## Acerca de mi
 
@@ -109,15 +109,15 @@ Ciberseguridad:
 
 ```diff
 + Administración de Servidores Linux
-- Soporte Técnico
-- Atención al Cliente
-- Despliegue de Proyectos
-- Git y GitLab
-- Vagrant
-- Docker
-- Administración de Bases de Datos
-- Desarrollo Web
-- Soporte de Redes
++ Soporte Técnico
++ Atención al Cliente
++ Despliegue de Proyectos
++ Git y GitLab
++ Vagrant
++ Docker
++ Administración de Bases de Datos
++ Desarrollo Web
++ Soporte de Redes
 ```
 
 ---
