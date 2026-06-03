@@ -20,7 +20,8 @@ Focus       : Linux | Backend | DevOps | Cybersecurity
 Status      : Learning and building projects
 ```
 
-<img align="right" width="320" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
+<img align="right" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/cat-computer.gif"/>
+
 ## Acerca de mi
 
 Soy estudiante de Informática apasionado por el desarrollo de software,
