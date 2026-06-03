@@ -69,17 +69,18 @@ utilizando herramientas modernas.
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,gitlab,nginx,bash,vagrant" />
 </p>
 
-#### Linux Distros
+# Plataformas
 
-```text
-Ubuntu
-Debian
-Kali Linux
-Fedora
-FreeBSD
-Parrot OS
-Linux Mint
-Manjaro
+```yaml
+Distros:
+- Ubuntu
+- Debian
+- Kali Linux
+- Fedora
+- FreeBSD
+- Parrot OS
+- Linux Mint
+- Manjaro
 ```
 
 ---
