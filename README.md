@@ -1,8 +1,32 @@
-# Hola, soy Ulises Santiago
+<div align="center">
 
-Estudiante de Informática con interés en desarrollo de software, administración de sistemas Linux, redes y ciberseguridad.
+# Ulises Santiago
 
-Actualmente trabajo con tecnologías orientadas al desarrollo web, despliegue de aplicaciones y administración de infraestructura basada en Linux.
+### Estudiante de Informática | Linux | Infraestructura | Desarrollo Web | Ciberseguridad
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Estudiante+de+Informática;Administrador+de+Sistemas+Linux;Desarrollador+Web;Interesado+en+Ciberseguridad;Infraestructura+y+Redes" />
+
+</div>
+
+---
+
+## Información
+
+```bash
+usuario      : Ulises Santiago
+ubicación    : Puebla, México
+correo       : ulisessantiago076@gmail.com
+formación    : Informática
+
+áreas de interés
+
+- Desarrollo Backend
+- Linux
+- Infraestructura
+- Redes
+- Ciberseguridad
+- DevOps
+```
 
 ---
 
@@ -10,37 +34,78 @@ Actualmente trabajo con tecnologías orientadas al desarrollo web, despliegue de
 
 ### Lenguajes
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,html,css" />
+</p>
 
-### Desarrollo Web
+### Frameworks
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,react,angular,vue,bootstrap" />
+</p>
 
 ### Bases de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![OrientDB](https://img.shields.io/badge/OrientDB-CB2027?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
-### Linux e Infraestructura
+**También he trabajado con:**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+- OrientDB
+
+---
+
+## Linux e Infraestructura
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,gitlab,nginx,bash" />
+</p>
+
+### Distribuciones utilizadas
+
+```text
+Debian
+Ubuntu
+Fedora
+Kali Linux
+Parrot OS
+Linux Mint
+Manjaro
+FreeBSD
+```
+
+### Experiencia
+
+```text
+Despliegue de proyectos
+Administración básica de servidores
+Configuración de servicios Linux
+Docker y Docker Compose
+Vagrant
+Git y GitLab
+Automatización de entornos
+Resolución de incidencias
+```
+
+---
+
+## Redes y Ciberseguridad
+
+```yaml
+Redes:
+  - TCP/IP
+  - DNS
+  - DHCP
+  - VPN
+  - Diagnóstico de conectividad
+
+Ciberseguridad:
+  - Hardening Linux
+  - Seguridad web
+  - Análisis básico de vulnerabilidades
+  - Buenas prácticas de seguridad
+```
 
 ---
 
@@ -49,23 +114,16 @@ Actualmente trabajo con tecnologías orientadas al desarrollo web, despliegue de
 ### Desarrollo
 
 - Aplicaciones web con Laravel.
-- Interfaces con React, Angular y Vue.
-- APIs REST.
-- Modelado y administración de bases de datos.
+- Desarrollo Frontend con React, Angular y Vue.
+- Integración de APIs REST.
+- Diseño y administración de bases de datos.
 
 ### Infraestructura
 
-- Despliegue de proyectos en servidores Linux.
+- Despliegue de aplicaciones en Linux.
 - Administración de Debian y Ubuntu.
-- Configuración de servicios y entornos de desarrollo.
-- Uso de Docker y Vagrant.
-
-### Redes y Seguridad
-
-- Configuración básica de redes.
-- TCP/IP, DNS y VPN.
-- Diagnóstico y solución de problemas.
-- Buenas prácticas de ciberseguridad.
+- Uso de Docker para entornos de desarrollo.
+- Control de versiones con Git y GitLab.
 
 ### Soporte Técnico
 
@@ -76,21 +134,42 @@ Actualmente trabajo con tecnologías orientadas al desarrollo web, despliegue de
 
 ---
 
-## Distribuciones Linux con las que he trabajado
+## Estadísticas
 
-- Debian
-- Ubuntu
-- Kali Linux
-- Fedora
-- Parrot OS
-- Linux Mint
-- Manjaro
-- FreeBSD
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulises0888&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulises0888&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Actividad
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulises0888&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Objetivos
+
+```text
+Seguir desarrollando experiencia en Linux
+Profundizar en infraestructura y DevOps
+Fortalecer conocimientos de ciberseguridad
+Participar en proyectos de software e infraestructura
+Contribuir a proyectos Open Source
+```
 
 ---
 
 ## Contacto
 
-📧 ulisessantiago076@gmail.com
+Correo: ulisessantiago076@gmail.com
 
-📍 Puebla, México
+Puebla, México
