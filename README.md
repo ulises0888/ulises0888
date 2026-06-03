@@ -20,7 +20,7 @@ Focus       : Linux | Backend | DevOps | Cybersecurity
 Status      : Learning and building projects
 ```
 
-<img align="right" width="320" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
 ## Acerca de mi
 
