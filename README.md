@@ -25,7 +25,7 @@ Status      : Learning and building projects
 ## Acerca de mi
 
 Soy estudiante de Informática apasionado por el desarrollo de software,
-las distros de Linux, redes y ciberseguridad.
+ Linux, redes y ciberseguridad.
 
 He trabajado en despliegues de proyectos, administración de servidores Linux,
 soporte técnico, infraestructura tecnológica y desarrollo de aplicaciones web.
